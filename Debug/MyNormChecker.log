@@ -1,0 +1,12 @@
+﻿  ReadUnknowenSize.c
+d:\vsprojects\mynormchecker\mynormchecker\readunknowensize.c(23): warning C4013: 'malloc' undefined; assuming extern returning int
+d:\vsprojects\mynormchecker\mynormchecker\readunknowensize.c(28): warning C4013: 'read' undefined; assuming extern returning int
+d:\vsprojects\mynormchecker\mynormchecker\readunknowensize.c(33): warning C4013: 'free' undefined; assuming extern returning int
+d:\vsprojects\mynormchecker\mynormchecker\readunknowensize.c(19): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char [2]'
+  MyNormChecker.c
+d:\vsprojects\mynormchecker\mynormchecker\mynormchecker.c(21): warning C4020: 'ReadToNewLine': too many actual parameters
+d:\vsprojects\mynormchecker\mynormchecker\mynormchecker.c(23): warning C4013: 'read' undefined; assuming extern returning int
+d:\vsprojects\mynormchecker\mynormchecker\mynormchecker.c(24): warning C4013: 'free' undefined; assuming extern returning int
+  Generating Code...
+  MyNormChecker.vcxproj -> D:\VSProjects\MyNormChecker\Debug\MyNormChecker.exe
+  MyNormChecker.vcxproj -> D:\VSProjects\MyNormChecker\Debug\MyNormChecker.pdb (Full PDB)
